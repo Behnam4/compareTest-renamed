@@ -10,6 +10,9 @@ namespace Calculator.NUnitTest
     [TestFixture]
     public class CalculatorOperationTest
     {
+        /// <summary>
+        /// jlo
+        /// </summary>
         [Test]
         public void resultShouldBeThirteen()
         {
@@ -20,6 +23,10 @@ namespace Calculator.NUnitTest
             Assert.That(result, Is.EqualTo(13));
         }
 
+
+        /// <summary>
+        /// opy
+        /// </summary>
         [Test]
         public void resultShouldBeFortyTwo()
         {

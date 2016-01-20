@@ -6,7 +6,9 @@ namespace Calculator.Tests
     [TestClass]
     public class CalculatorOperationTest
     {
-
+        /// <summary>
+        /// ghj
+        /// </summary>
         // first tester method
         [TestMethod]
         public void resultShouldBeThirteenWhenPassSevenSix()
@@ -19,7 +21,9 @@ namespace Calculator.Tests
         }
 
 
-
+        /// <summary>
+        /// cxv
+        /// </summary>
         // second tester method
         [TestMethod]
         public void resultShouldBeFortyTwoWhenPassSevenSix()
