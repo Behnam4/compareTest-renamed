@@ -33,6 +33,7 @@ namespace Calculator.Tests
             float result = calculatorOperation.mul(7, 6);
 
             Assert.AreEqual(42, result);
+            // skfjsdfkggkgd
         }
     }
 }
