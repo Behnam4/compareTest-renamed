@@ -17,6 +17,6 @@ namespace Calculator
         {
             return firstNumber + secondNumber;
         }
-        //sdfsdfdfffvngvjjghjhj
+        //sdfsdfdfffvngv
     }
 }

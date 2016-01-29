@@ -22,7 +22,7 @@ namespace Calculator.Tests
 
 
         /// <summary>
-        /// dfggdgfdgd
+        /// dfggdgfdgdghhgvhgv
         /// </summary>
         // second tester method
         [TestMethod]
