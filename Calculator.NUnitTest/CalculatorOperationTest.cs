@@ -11,7 +11,7 @@ namespace Calculator.NUnitTest
     public class CalculatorOperationTest
     {
         /// <summary>
-        /// fghhfhfghfghghhv
+        /// fghhfhfghfghghhvsdfsdffsfsf
         /// </summary>
         [Test]
         public void resultShouldBeThirteen()
@@ -25,7 +25,7 @@ namespace Calculator.NUnitTest
 
 
         /// <summary>
-        /// hfghgfghghhgv
+        /// hfghgfghghhgvsfgsfssdsdf
         /// </summary>
         [Test]
         public void resultShouldBeFortyTwo()
