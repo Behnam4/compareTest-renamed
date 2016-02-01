@@ -9,7 +9,7 @@ namespace Calculator
     public class CalculatorOperation
     {
         /// <summary>
-        /// 
+        /// fghfghfh
         /// </summary>
         /// <param name="firstNumber"></param>
         /// <param name="secondNumber"></param>
@@ -20,7 +20,7 @@ namespace Calculator
         }
 
         /// <summary>
-        /// 
+        /// hfhfhh
         /// </summary>
         /// <param name="firstNumber"></param>
         /// <param name="secondNumber"></param>
