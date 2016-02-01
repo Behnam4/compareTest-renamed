@@ -7,7 +7,7 @@ namespace Calculator.Tests
     public class CalculatorOperationTest
     {
         /// <summary>
-        /// fdgffdgdfgsffdsfsd
+        /// test
         /// </summary>
         // first tester method
         [TestMethod]
@@ -22,7 +22,7 @@ namespace Calculator.Tests
 
 
         /// <summary>
-        /// dfggdgfdgdghhgvhgvsffsdfsdff
+        /// test
         /// </summary>
         // second tester method
         [TestMethod]
