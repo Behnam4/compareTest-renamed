@@ -7,7 +7,7 @@ namespace Calculator.Tests
     public class CalculatorOperationTest
     {
         /// <summary>
-        /// testfghhg
+        /// 
         /// </summary>
         // first tester method
         [TestMethod]
@@ -22,7 +22,7 @@ namespace Calculator.Tests
 
 
         /// <summary>
-        /// testhfghfgh
+        /// 
         /// </summary>
         // second tester method
         [TestMethod]
@@ -33,7 +33,7 @@ namespace Calculator.Tests
             float result = calculatorOperation.mul(7, 6);
 
             Assert.AreEqual(42, result);
-            // skfjsdfkggkgd
+          
         }
     }
 }

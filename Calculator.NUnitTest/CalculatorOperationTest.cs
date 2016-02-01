@@ -11,7 +11,7 @@ namespace Calculator.NUnitTest
     public class CalculatorOperationTest
     {
         /// <summary>
-        /// testhghh
+        /// test
         /// </summary>
         [Test]
         public void resultShouldBeThirteen()
@@ -25,7 +25,7 @@ namespace Calculator.NUnitTest
 
 
         /// <summary>
-        /// testhfghgh
+        /// testh
         /// </summary>
         [Test]
         public void resultShouldBeFortyTwo()
@@ -35,7 +35,7 @@ namespace Calculator.NUnitTest
             float result = calculatorOperation.mul(7, 6);
 
             Assert.That(result, Is.EqualTo(42));
-            //sdfsdffsdsff
+           
         }
     }
 }
